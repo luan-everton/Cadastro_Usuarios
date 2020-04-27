@@ -1,0 +1,10 @@
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\bin\Debug\Cadastro_Usuarios_Forms.exe.config
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\bin\Debug\Cadastro_Usuarios_Forms.exe
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\bin\Debug\Cadastro_Usuarios_Forms.pdb
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.csprojAssemblyReference.cache
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.Frm_Login.resources
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.Properties.Resources.resources
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.csproj.GenerateResource.cache
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.csproj.CoreCompileInputs.cache
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.exe
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.pdb
