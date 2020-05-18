@@ -13,3 +13,5 @@ C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuar
 C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\bin\Debug\Cadastro.Dao.dll
 C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\bin\Debug\Cadastro.Dao.pdb
 C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\obj\Debug\Cadastro_Usuarios_Forms.csproj.CopyComplete
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\bin\Debug\Cadastro_Model.dll
+C:\Users\lnoi\source\projetosC#\Cadastro_Usuarios_Forms\bin\Debug\Cadastro_Model.pdb

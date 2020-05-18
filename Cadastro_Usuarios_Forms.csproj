@@ -102,6 +102,10 @@
       <Project>{567c0c92-7a33-4502-934f-1444212898bf}</Project>
       <Name>Cadastro.Dao</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Cadastro.Model\Cadastro.Model.csproj">
+      <Project>{0A97BCBF-EABE-4A80-8392-41C3CB567D3C}</Project>
+      <Name>Cadastro.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

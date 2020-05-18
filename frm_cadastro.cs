@@ -30,6 +30,8 @@ namespace Cadastro_Usuarios_Forms
                 DataTable data = new DataTable();
                 sda.Fill(data);
                tabela_cliente.DataSource = data;
+            UsuarioDao usuarioDao = new UsuarioDao();
+          
           
         }
 
@@ -43,6 +45,9 @@ namespace Cadastro_Usuarios_Forms
             SqlDataAdapter db = new SqlDataAdapter("SELECT * FROM processos", "server=BRPC003848;Initial Catalog=UBS 1;Integrated Security=True");
             DataSet ds = new DataSet();
             db.Fill(ds, "processos");
+
+            UsuarioDao usuarioDao = new UsuarioDao();
+            var usuario = usuarioDao.GetUsuarios();
             tabela_cliente.DataSource = ds.Tables["processos"].DefaultView;
         }
 
